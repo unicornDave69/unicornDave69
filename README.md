@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @unicornDave69
-- 👀 I’m interested in programming - Javascript(React, Express) and My SQL.
+- 👀 I’m interested in programming - Javascript(React, Express).
 - 🌱 I’m currently learning Javascript(React, Express).
 
 
