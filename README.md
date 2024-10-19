@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @unicornDave69 (David Dobrovolný)
+- 👋 Hi, I’m @unicornDave69 (David Dobrovolný).
 - 👀 I’m interested in full stack Javascript programming (MERN).
 - 🌱 I’m currently learning React and Express js.
 - 📫 How to reach me dejv.dobrovolny@seznam.cz.
